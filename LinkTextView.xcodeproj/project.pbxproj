@@ -1,0 +1,520 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CEA786401BDA375B00682F9B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA7863F1BDA375B00682F9B /* AppDelegate.swift */; };
+		CEA786421BDA375B00682F9B /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA786411BDA375B00682F9B /* FirstViewController.swift */; };
+		CEA786441BDA375B00682F9B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA786431BDA375B00682F9B /* SecondViewController.swift */; };
+		CEA786471BDA375B00682F9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEA786451BDA375B00682F9B /* Main.storyboard */; };
+		CEA786491BDA375B00682F9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEA786481BDA375B00682F9B /* Assets.xcassets */; };
+		CEA7864C1BDA375B00682F9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEA7864A1BDA375B00682F9B /* LaunchScreen.storyboard */; };
+		CEA786571BDA375B00682F9B /* LinkTextViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA786561BDA375B00682F9B /* LinkTextViewTests.swift */; };
+		CEA786621BDA375B00682F9B /* LinkTextViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA786611BDA375B00682F9B /* LinkTextViewUITests.swift */; };
+		CEA786701BDA37F200682F9B /* LinkTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA7866F1BDA37F200682F9B /* LinkTextView.swift */; };
+		CEA786721BDA380400682F9B /* TouchUpDownGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA786711BDA380400682F9B /* TouchUpDownGestureRecognizer.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CEA786531BDA375B00682F9B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CEA786341BDA375B00682F9B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CEA7863B1BDA375B00682F9B;
+			remoteInfo = LinkTextView;
+		};
+		CEA7865E1BDA375B00682F9B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CEA786341BDA375B00682F9B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CEA7863B1BDA375B00682F9B;
+			remoteInfo = LinkTextView;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CEA7863C1BDA375B00682F9B /* LinkTextView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LinkTextView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEA7863F1BDA375B00682F9B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CEA786411BDA375B00682F9B /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		CEA786431BDA375B00682F9B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		CEA786461BDA375B00682F9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CEA786481BDA375B00682F9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CEA7864B1BDA375B00682F9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CEA7864D1BDA375B00682F9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEA786521BDA375B00682F9B /* LinkTextViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LinkTextViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEA786561BDA375B00682F9B /* LinkTextViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkTextViewTests.swift; sourceTree = "<group>"; };
+		CEA786581BDA375B00682F9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEA7865D1BDA375B00682F9B /* LinkTextViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LinkTextViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEA786611BDA375B00682F9B /* LinkTextViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkTextViewUITests.swift; sourceTree = "<group>"; };
+		CEA786631BDA375B00682F9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEA7866F1BDA37F200682F9B /* LinkTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkTextView.swift; sourceTree = "<group>"; };
+		CEA786711BDA380400682F9B /* TouchUpDownGestureRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TouchUpDownGestureRecognizer.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CEA786391BDA375B00682F9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CEA7864F1BDA375B00682F9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CEA7865A1BDA375B00682F9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CEA786331BDA375B00682F9B = {
+			isa = PBXGroup;
+			children = (
+				CEA7863E1BDA375B00682F9B /* LinkTextView */,
+				CEA786551BDA375B00682F9B /* LinkTextViewTests */,
+				CEA786601BDA375B00682F9B /* LinkTextViewUITests */,
+				CEA7863D1BDA375B00682F9B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CEA7863D1BDA375B00682F9B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CEA7863C1BDA375B00682F9B /* LinkTextView.app */,
+				CEA786521BDA375B00682F9B /* LinkTextViewTests.xctest */,
+				CEA7865D1BDA375B00682F9B /* LinkTextViewUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CEA7863E1BDA375B00682F9B /* LinkTextView */ = {
+			isa = PBXGroup;
+			children = (
+				CEA7863F1BDA375B00682F9B /* AppDelegate.swift */,
+				CEA786411BDA375B00682F9B /* FirstViewController.swift */,
+				CEA786431BDA375B00682F9B /* SecondViewController.swift */,
+				CEA786451BDA375B00682F9B /* Main.storyboard */,
+				CEA786481BDA375B00682F9B /* Assets.xcassets */,
+				CEA7864A1BDA375B00682F9B /* LaunchScreen.storyboard */,
+				CEA7864D1BDA375B00682F9B /* Info.plist */,
+				CEA7866F1BDA37F200682F9B /* LinkTextView.swift */,
+				CEA786711BDA380400682F9B /* TouchUpDownGestureRecognizer.swift */,
+			);
+			path = LinkTextView;
+			sourceTree = "<group>";
+		};
+		CEA786551BDA375B00682F9B /* LinkTextViewTests */ = {
+			isa = PBXGroup;
+			children = (
+				CEA786561BDA375B00682F9B /* LinkTextViewTests.swift */,
+				CEA786581BDA375B00682F9B /* Info.plist */,
+			);
+			path = LinkTextViewTests;
+			sourceTree = "<group>";
+		};
+		CEA786601BDA375B00682F9B /* LinkTextViewUITests */ = {
+			isa = PBXGroup;
+			children = (
+				CEA786611BDA375B00682F9B /* LinkTextViewUITests.swift */,
+				CEA786631BDA375B00682F9B /* Info.plist */,
+			);
+			path = LinkTextViewUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CEA7863B1BDA375B00682F9B /* LinkTextView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CEA786661BDA375B00682F9B /* Build configuration list for PBXNativeTarget "LinkTextView" */;
+			buildPhases = (
+				CEA786381BDA375B00682F9B /* Sources */,
+				CEA786391BDA375B00682F9B /* Frameworks */,
+				CEA7863A1BDA375B00682F9B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LinkTextView;
+			productName = LinkTextView;
+			productReference = CEA7863C1BDA375B00682F9B /* LinkTextView.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CEA786511BDA375B00682F9B /* LinkTextViewTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CEA786691BDA375B00682F9B /* Build configuration list for PBXNativeTarget "LinkTextViewTests" */;
+			buildPhases = (
+				CEA7864E1BDA375B00682F9B /* Sources */,
+				CEA7864F1BDA375B00682F9B /* Frameworks */,
+				CEA786501BDA375B00682F9B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CEA786541BDA375B00682F9B /* PBXTargetDependency */,
+			);
+			name = LinkTextViewTests;
+			productName = LinkTextViewTests;
+			productReference = CEA786521BDA375B00682F9B /* LinkTextViewTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CEA7865C1BDA375B00682F9B /* LinkTextViewUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CEA7866C1BDA375B00682F9B /* Build configuration list for PBXNativeTarget "LinkTextViewUITests" */;
+			buildPhases = (
+				CEA786591BDA375B00682F9B /* Sources */,
+				CEA7865A1BDA375B00682F9B /* Frameworks */,
+				CEA7865B1BDA375B00682F9B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CEA7865F1BDA375B00682F9B /* PBXTargetDependency */,
+			);
+			name = LinkTextViewUITests;
+			productName = LinkTextViewUITests;
+			productReference = CEA7865D1BDA375B00682F9B /* LinkTextViewUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CEA786341BDA375B00682F9B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = vasily.jp;
+				TargetAttributes = {
+					CEA7863B1BDA375B00682F9B = {
+						CreatedOnToolsVersion = 7.1;
+					};
+					CEA786511BDA375B00682F9B = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = CEA7863B1BDA375B00682F9B;
+					};
+					CEA7865C1BDA375B00682F9B = {
+						CreatedOnToolsVersion = 7.1;
+						TestTargetID = CEA7863B1BDA375B00682F9B;
+					};
+				};
+			};
+			buildConfigurationList = CEA786371BDA375B00682F9B /* Build configuration list for PBXProject "LinkTextView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CEA786331BDA375B00682F9B;
+			productRefGroup = CEA7863D1BDA375B00682F9B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CEA7863B1BDA375B00682F9B /* LinkTextView */,
+				CEA786511BDA375B00682F9B /* LinkTextViewTests */,
+				CEA7865C1BDA375B00682F9B /* LinkTextViewUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CEA7863A1BDA375B00682F9B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEA7864C1BDA375B00682F9B /* LaunchScreen.storyboard in Resources */,
+				CEA786491BDA375B00682F9B /* Assets.xcassets in Resources */,
+				CEA786471BDA375B00682F9B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CEA786501BDA375B00682F9B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CEA7865B1BDA375B00682F9B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CEA786381BDA375B00682F9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEA786441BDA375B00682F9B /* SecondViewController.swift in Sources */,
+				CEA786401BDA375B00682F9B /* AppDelegate.swift in Sources */,
+				CEA786421BDA375B00682F9B /* FirstViewController.swift in Sources */,
+				CEA786721BDA380400682F9B /* TouchUpDownGestureRecognizer.swift in Sources */,
+				CEA786701BDA37F200682F9B /* LinkTextView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CEA7864E1BDA375B00682F9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEA786571BDA375B00682F9B /* LinkTextViewTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CEA786591BDA375B00682F9B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CEA786621BDA375B00682F9B /* LinkTextViewUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CEA786541BDA375B00682F9B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CEA7863B1BDA375B00682F9B /* LinkTextView */;
+			targetProxy = CEA786531BDA375B00682F9B /* PBXContainerItemProxy */;
+		};
+		CEA7865F1BDA375B00682F9B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CEA7863B1BDA375B00682F9B /* LinkTextView */;
+			targetProxy = CEA7865E1BDA375B00682F9B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		CEA786451BDA375B00682F9B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CEA786461BDA375B00682F9B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CEA7864A1BDA375B00682F9B /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CEA7864B1BDA375B00682F9B /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CEA786641BDA375B00682F9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CEA786651BDA375B00682F9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CEA786671BDA375B00682F9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LinkTextView/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vasily.jp.LinkTextView;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CEA786681BDA375B00682F9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LinkTextView/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vasily.jp.LinkTextView;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		CEA7866A1BDA375B00682F9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = LinkTextViewTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vasily.jp.LinkTextViewTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LinkTextView.app/LinkTextView";
+			};
+			name = Debug;
+		};
+		CEA7866B1BDA375B00682F9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = LinkTextViewTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vasily.jp.LinkTextViewTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LinkTextView.app/LinkTextView";
+			};
+			name = Release;
+		};
+		CEA7866D1BDA375B00682F9B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = LinkTextViewUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vasily.jp.LinkTextViewUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = LinkTextView;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		CEA7866E1BDA375B00682F9B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = LinkTextViewUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = vasily.jp.LinkTextViewUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = LinkTextView;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CEA786371BDA375B00682F9B /* Build configuration list for PBXProject "LinkTextView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CEA786641BDA375B00682F9B /* Debug */,
+				CEA786651BDA375B00682F9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CEA786661BDA375B00682F9B /* Build configuration list for PBXNativeTarget "LinkTextView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CEA786671BDA375B00682F9B /* Debug */,
+				CEA786681BDA375B00682F9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CEA786691BDA375B00682F9B /* Build configuration list for PBXNativeTarget "LinkTextViewTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CEA7866A1BDA375B00682F9B /* Debug */,
+				CEA7866B1BDA375B00682F9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CEA7866C1BDA375B00682F9B /* Build configuration list for PBXNativeTarget "LinkTextViewUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CEA7866D1BDA375B00682F9B /* Debug */,
+				CEA7866E1BDA375B00682F9B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CEA786341BDA375B00682F9B /* Project object */;
+}
