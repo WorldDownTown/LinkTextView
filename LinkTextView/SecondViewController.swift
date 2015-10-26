@@ -20,7 +20,7 @@ class SecondViewController: UIViewController {
 
     private func setupTextView() {
 
-        let linkKeywords = ["Lorem", "dolor", "lamet", "consectetaur", "cillium", "adipisicing", "eiusmod", "tempor", "incididunt", "labore", "dolore", "magna", "aliqua", "minim", "veniam", "nostrud", "exercitation", "ullamco", "laboris", "aliquip", "commodo", "consequat", "irure", "dolor", "reprehenderit", "voluptate", "velit", "cillum", "dolore", "fugiat", "nulla", "pariatur", "Excepteur", "occaecat", "cupidatat", "proident", "culpa", "officia", "deserunt", "mollit", "laborum", "liber", "conscient", "factor", "legum", "odioque", "civiuda"]
+        let linkKeywords = ["#ロゴ", "#ロゴニット", "#チュールスカート", "#ダッフルコート", "#スニーカー", "#コーデュロイ", "#ファーバッグ", "#クラッチバッグ", "#時計", "#アースカラー"]
 
         let attributes = [
             NSForegroundColorAttributeName: UIColor.blueColor(),

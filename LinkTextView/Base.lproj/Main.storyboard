@@ -29,11 +29,19 @@
                                         </constraints>
                                         <attributedString key="attributedText">
                                             <fragment>
-                                                <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
                                                 <attributes>
                                                     <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <font key="NSFont" size="14" name="HelveticaNeue"/>
-                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
                                                 </attributes>
                                             </fragment>
                                         </attributedString>
@@ -49,11 +57,19 @@
                                         </constraints>
                                         <attributedString key="attributedText">
                                             <fragment>
-                                                <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
                                                 <attributes>
                                                     <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <font key="NSFont" size="14" name="HelveticaNeue"/>
-                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
                                                 </attributes>
                                             </fragment>
                                         </attributedString>
@@ -69,11 +85,19 @@
                                         </constraints>
                                         <attributedString key="attributedText">
                                             <fragment>
-                                                <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
                                                 <attributes>
                                                     <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <font key="NSFont" size="14" name="HelveticaNeue"/>
-                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
                                                 </attributes>
                                             </fragment>
                                         </attributedString>
@@ -89,11 +113,20 @@
                                         </constraints>
                                         <attributedString key="attributedText">
                                             <fragment>
-                                                <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
                                                 <attributes>
                                                     <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <font key="NSFont" size="14" name="HelveticaNeue"/>
-                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <font key="NSOriginalFont" size="16" name="HiraginoSans-W3"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
                                                 </attributes>
                                             </fragment>
                                         </attributedString>
@@ -109,11 +142,18 @@
                                         </constraints>
                                         <attributedString key="attributedText">
                                             <fragment>
-                                                <string key="content">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
                                                 <attributes>
-                                                    <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                                    <font key="NSFont" size="14" name="HelveticaNeue"/>
-                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
                                                 </attributes>
                                             </fragment>
                                         </attributedString>
@@ -179,90 +219,165 @@
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="56h-IX-Wa6">
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                                 <subviews>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="v5I-jx-f0k" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ijl-CJ-Nki" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
                                         <rect key="frame" x="20" y="20" width="335" height="128"/>
                                         <animations/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="128" id="cD7-la-RcY"/>
-                                            <constraint firstAttribute="width" constant="335" id="paH-ld-e6Z"/>
+                                            <constraint firstAttribute="height" constant="128" id="jCj-ec-dvY"/>
+                                            <constraint firstAttribute="width" constant="335" id="soi-0o-B0K"/>
                                         </constraints>
-                                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                        <attributedString key="attributedText">
+                                            <fragment>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
+                                                <attributes>
+                                                    <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
+                                                </attributes>
+                                            </fragment>
+                                        </attributedString>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                         <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES" calendarEvent="YES"/>
                                     </textView>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VuK-m7-ASP" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Yrf-VS-uo3" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
                                         <rect key="frame" x="20" y="168" width="335" height="128"/>
                                         <animations/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="128" id="WGU-6i-0fK"/>
-                                            <constraint firstAttribute="width" constant="335" id="xZy-yB-UFj"/>
+                                            <constraint firstAttribute="width" constant="335" id="EVP-bL-Uy7"/>
+                                            <constraint firstAttribute="height" constant="128" id="EVm-aa-t0X"/>
                                         </constraints>
-                                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                        <attributedString key="attributedText">
+                                            <fragment>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
+                                                <attributes>
+                                                    <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
+                                                </attributes>
+                                            </fragment>
+                                        </attributedString>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                         <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES" calendarEvent="YES"/>
                                     </textView>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8sa-RA-Yo7" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="nEp-Rb-8Kh" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
                                         <rect key="frame" x="20" y="316" width="335" height="128"/>
                                         <animations/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="128" id="wLm-u8-aY6"/>
-                                            <constraint firstAttribute="width" constant="335" id="wcF-td-flE"/>
+                                            <constraint firstAttribute="height" constant="128" id="AlE-44-tnh"/>
+                                            <constraint firstAttribute="width" constant="335" id="aVi-G9-Xkj"/>
                                         </constraints>
-                                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                        <attributedString key="attributedText">
+                                            <fragment>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
+                                                <attributes>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
+                                                </attributes>
+                                            </fragment>
+                                        </attributedString>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                         <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES" calendarEvent="YES"/>
                                     </textView>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Msi-hs-aZ0" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="rzg-Sn-2de" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
                                         <rect key="frame" x="20" y="464" width="335" height="128"/>
                                         <animations/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="128" id="Tdn-hn-zJm"/>
-                                            <constraint firstAttribute="width" constant="335" id="jcV-Jf-A3T"/>
+                                            <constraint firstAttribute="width" constant="335" id="9ea-35-rhc"/>
+                                            <constraint firstAttribute="height" constant="128" id="ZeS-yd-kKg"/>
                                         </constraints>
-                                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                        <attributedString key="attributedText">
+                                            <fragment>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
+                                                <attributes>
+                                                    <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <font key="NSOriginalFont" size="16" name="HiraginoSans-W3"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
+                                                </attributes>
+                                            </fragment>
+                                        </attributedString>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                         <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES" calendarEvent="YES"/>
                                     </textView>
-                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XAV-ER-NaR" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
+                                    <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="3Vo-zQ-IBs" customClass="LinkTextView" customModule="LinkTextView" customModuleProvider="target">
                                         <rect key="frame" x="20" y="612" width="335" height="128"/>
                                         <animations/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="335" id="IGe-bn-D0X"/>
-                                            <constraint firstAttribute="height" constant="128" id="dnO-7l-n9L"/>
+                                            <constraint firstAttribute="width" constant="335" id="GKd-xB-T7V"/>
+                                            <constraint firstAttribute="height" constant="128" id="ap6-ZA-Yjr"/>
                                         </constraints>
-                                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                                        <attributedString key="attributedText">
+                                            <fragment>
+                                                <string key="content">チュール×ロゴトップス
+#ロゴ #ロゴニット #チュールスカート #ダッフルコート #スニーカー #コーデュロイ #ファーバッグ #クラッチバッグ #時計 #アースカラー</string>
+                                                <attributes>
+                                                    <color key="NSColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                                    <font key="NSFont" size="16" name="HiraginoSans-W3"/>
+                                                    <integer key="NSLigature" value="0"/>
+                                                    <paragraphStyle key="NSParagraphStyle" alignment="left" lineBreakMode="wordWrapping" baseWritingDirection="natural" defaultTabInterval="32" tighteningFactorForTruncation="0.0" allowsDefaultTighteningForTruncation="NO">
+                                                        <tabStops>
+                                                            <textTab alignment="left" location="32">
+                                                                <options/>
+                                                            </textTab>
+                                                        </tabStops>
+                                                    </paragraphStyle>
+                                                </attributes>
+                                            </fragment>
+                                        </attributedString>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                         <dataDetectorType key="dataDetectorTypes" phoneNumber="YES" link="YES" address="YES" calendarEvent="YES"/>
                                     </textView>
                                 </subviews>
                                 <animations/>
                                 <constraints>
-                                    <constraint firstItem="8sa-RA-Yo7" firstAttribute="top" secondItem="VuK-m7-ASP" secondAttribute="bottom" constant="20" id="6hQ-D3-anM"/>
-                                    <constraint firstItem="Msi-hs-aZ0" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="GR2-NN-ENt"/>
-                                    <constraint firstItem="XAV-ER-NaR" firstAttribute="top" secondItem="Msi-hs-aZ0" secondAttribute="bottom" constant="20" id="HQ6-Eh-Ei8"/>
-                                    <constraint firstAttribute="trailing" secondItem="XAV-ER-NaR" secondAttribute="trailing" constant="20" id="Hjn-7B-Adp"/>
-                                    <constraint firstItem="8sa-RA-Yo7" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="Jot-EV-nXR"/>
-                                    <constraint firstItem="VuK-m7-ASP" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="NDX-bn-dh2"/>
-                                    <constraint firstAttribute="trailing" secondItem="v5I-jx-f0k" secondAttribute="trailing" constant="20" id="RhE-Yx-sfy"/>
-                                    <constraint firstAttribute="trailing" secondItem="Msi-hs-aZ0" secondAttribute="trailing" constant="20" id="TSq-bF-CfV"/>
-                                    <constraint firstItem="v5I-jx-f0k" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="brg-f3-3hL"/>
-                                    <constraint firstItem="v5I-jx-f0k" firstAttribute="top" secondItem="56h-IX-Wa6" secondAttribute="top" constant="20" id="eRt-xt-Gh1"/>
-                                    <constraint firstItem="VuK-m7-ASP" firstAttribute="top" secondItem="v5I-jx-f0k" secondAttribute="bottom" constant="20" id="hpE-Mm-9Rh"/>
-                                    <constraint firstAttribute="bottom" secondItem="XAV-ER-NaR" secondAttribute="bottom" constant="20" id="j6K-L3-I2x"/>
-                                    <constraint firstAttribute="trailing" secondItem="VuK-m7-ASP" secondAttribute="trailing" constant="20" id="ohA-1b-yus"/>
-                                    <constraint firstItem="Msi-hs-aZ0" firstAttribute="top" secondItem="8sa-RA-Yo7" secondAttribute="bottom" constant="20" id="r60-F7-BV1"/>
-                                    <constraint firstItem="XAV-ER-NaR" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="tyX-oG-WQ6"/>
-                                    <constraint firstAttribute="trailing" secondItem="8sa-RA-Yo7" secondAttribute="trailing" constant="20" id="z23-is-TBs"/>
+                                    <constraint firstItem="Ijl-CJ-Nki" firstAttribute="top" secondItem="56h-IX-Wa6" secondAttribute="top" constant="20" id="1qB-We-REa"/>
+                                    <constraint firstItem="Yrf-VS-uo3" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="7uj-Lf-0Th"/>
+                                    <constraint firstItem="rzg-Sn-2de" firstAttribute="top" secondItem="nEp-Rb-8Kh" secondAttribute="bottom" constant="20" id="DvF-zb-hz0"/>
+                                    <constraint firstItem="3Vo-zQ-IBs" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="IMe-NI-aYG"/>
+                                    <constraint firstItem="nEp-Rb-8Kh" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="QI3-07-OPt"/>
+                                    <constraint firstItem="Ijl-CJ-Nki" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="VBo-Nc-U29"/>
+                                    <constraint firstItem="Yrf-VS-uo3" firstAttribute="top" secondItem="Ijl-CJ-Nki" secondAttribute="bottom" constant="20" id="a6P-O0-QFZ"/>
+                                    <constraint firstItem="rzg-Sn-2de" firstAttribute="leading" secondItem="56h-IX-Wa6" secondAttribute="leading" constant="20" id="b3a-CL-sKd"/>
+                                    <constraint firstAttribute="bottom" secondItem="3Vo-zQ-IBs" secondAttribute="bottom" constant="20" id="b7B-OY-hyK"/>
+                                    <constraint firstAttribute="trailing" secondItem="Yrf-VS-uo3" secondAttribute="trailing" constant="20" id="bL5-Rf-aA7"/>
+                                    <constraint firstAttribute="trailing" secondItem="nEp-Rb-8Kh" secondAttribute="trailing" constant="20" id="fWN-uY-SdX"/>
+                                    <constraint firstAttribute="trailing" secondItem="Ijl-CJ-Nki" secondAttribute="trailing" constant="20" id="iW1-6t-85c"/>
+                                    <constraint firstItem="nEp-Rb-8Kh" firstAttribute="top" secondItem="Yrf-VS-uo3" secondAttribute="bottom" constant="20" id="mMd-uS-wWy"/>
+                                    <constraint firstAttribute="trailing" secondItem="rzg-Sn-2de" secondAttribute="trailing" constant="20" id="mmy-d5-yZj"/>
+                                    <constraint firstItem="3Vo-zQ-IBs" firstAttribute="top" secondItem="rzg-Sn-2de" secondAttribute="bottom" constant="20" id="uTP-87-hUj"/>
+                                    <constraint firstAttribute="trailing" secondItem="3Vo-zQ-IBs" secondAttribute="trailing" constant="20" id="vi9-lo-4QS"/>
                                 </constraints>
                             </scrollView>
                         </subviews>
@@ -277,11 +392,11 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Second" image="second" id="cPa-gy-q4n"/>
                     <connections>
-                        <outletCollection property="textViews" destination="v5I-jx-f0k" collectionClass="NSMutableArray" id="Mdi-V1-94u"/>
-                        <outletCollection property="textViews" destination="VuK-m7-ASP" collectionClass="NSMutableArray" id="qHS-ZW-nmP"/>
-                        <outletCollection property="textViews" destination="8sa-RA-Yo7" collectionClass="NSMutableArray" id="hf7-Da-EL1"/>
-                        <outletCollection property="textViews" destination="Msi-hs-aZ0" collectionClass="NSMutableArray" id="2dd-gQ-ye0"/>
-                        <outletCollection property="textViews" destination="XAV-ER-NaR" collectionClass="NSMutableArray" id="RiT-rK-a9H"/>
+                        <outletCollection property="textViews" destination="Ijl-CJ-Nki" collectionClass="NSMutableArray" id="lJT-IF-VQq"/>
+                        <outletCollection property="textViews" destination="Yrf-VS-uo3" collectionClass="NSMutableArray" id="LYV-fe-jVy"/>
+                        <outletCollection property="textViews" destination="nEp-Rb-8Kh" collectionClass="NSMutableArray" id="FlG-0g-Mg8"/>
+                        <outletCollection property="textViews" destination="rzg-Sn-2de" collectionClass="NSMutableArray" id="9xF-Mb-c08"/>
+                        <outletCollection property="textViews" destination="3Vo-zQ-IBs" collectionClass="NSMutableArray" id="FmB-QJ-4bE"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Nw-L8-lE0" sceneMemberID="firstResponder"/>
